@@ -1,19 +1,4 @@
-name: travisclark
-favicon: null
-layout_spectrum: 0.4833
 typography_spectrum: 0.9947322092484683
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.08491480303928256
   saturation: 0.5373824145644903
   rhythmicContrast: 0.3632951744366437
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4833
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: travisclark
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: This is a tagline
 purpose: []
